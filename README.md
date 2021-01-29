@@ -1,4 +1,4 @@
 # Data_Science_learning
 
 
-This file is a learning resources for my career in data science. 
+These files are learning resources for my career in data science. It contains all intro conepts of programming in python using libraries, function, loops, conditions. 
